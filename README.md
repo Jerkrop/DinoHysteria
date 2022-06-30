@@ -1,2 +1,2 @@
 # DinoHysteria
-This is a dinosaur website I work on in my free time
+This is a dinosaur game website I work on in my free time
